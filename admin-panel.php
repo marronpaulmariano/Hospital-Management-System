@@ -2,7 +2,7 @@
 <?php 
 include('func.php');  
 include('newfunc.php');
-$con=mysqli_connect("localhost","root","","myhmsdb");
+$con=mysqli_connect("sql12.freemysqlhosting.net","qvTMXAPbM8","","sql12604989");
 
 
   $pid = $_SESSION['pid'];
