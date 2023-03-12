@@ -1,5 +1,5 @@
 <?php
-define('DB_SERVER','sql12.freemysqlhosting.net');
+define('DB_SERVER',sql12.freemysqlhosting.net);
 define('DB_USER','sql12604983');
 define('DB_PASS' ,'8Wp1LRIvRP');
 define('DB_NAME', 'sql12604983');
